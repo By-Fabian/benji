@@ -1,0 +1,3 @@
+/home/utec/Escritorio/benji/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/utec/Escritorio/benji/cmake-build-debug/CMakeFiles/benji.dir
+/home/utec/Escritorio/benji/cmake-build-debug/CMakeFiles/edit_cache.dir

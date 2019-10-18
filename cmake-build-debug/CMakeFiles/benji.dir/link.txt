@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/benji.dir/main.cpp.o  -o benji 
